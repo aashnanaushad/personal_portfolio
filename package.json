@@ -1,0 +1,24 @@
+{
+  "name": "Aashna",
+  "description": "I'm a Blockchain and AI-focused software engineer delivering innovative solutions.",
+  "version": "0.0.1",
+  "author": "Aashna Naushad",
+  "homepage": "https://aashnanaushad.netlify.app/",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "accessible-astro-components": "^01.6.1",
+    "astro-icon": "^0.7.3",
+    "atropos": "^1.0.2",
+    "canvas-confetti": "^1.6.0"
+  },
+  "devDependencies": {
+    "astro": "^2.0.15",
+    "sass": "^1.49.9"
+  }
+}
